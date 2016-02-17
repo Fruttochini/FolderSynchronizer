@@ -1,0 +1,28 @@
+C:\Users\LenIvo\Google Диск\Bionic Uni HomeWorks\HW14_20150326_FileSynchro\HW14_20150326_FileSynchro\bin\Debug\HW14_20150326_FileSynchro.exe.config
+C:\Users\LenIvo\Google Диск\Bionic Uni HomeWorks\HW14_20150326_FileSynchro\HW14_20150326_FileSynchro\bin\Debug\HW14_20150326_FileSynchro.exe
+C:\Users\LenIvo\Google Диск\Bionic Uni HomeWorks\HW14_20150326_FileSynchro\HW14_20150326_FileSynchro\bin\Debug\HW14_20150326_FileSynchro.pdb
+C:\Users\LenIvo\Google Диск\Bionic Uni HomeWorks\HW14_20150326_FileSynchro\HW14_20150326_FileSynchro\obj\Debug\HW14_20150326_FileSynchro.csprojResolveAssemblyReference.cache
+C:\Users\LenIvo\Google Диск\Bionic Uni HomeWorks\HW14_20150326_FileSynchro\HW14_20150326_FileSynchro\obj\Debug\HW14_20150326_FileSynchro.Properties.Resources.resources
+C:\Users\LenIvo\Google Диск\Bionic Uni HomeWorks\HW14_20150326_FileSynchro\HW14_20150326_FileSynchro\obj\Debug\HW14_20150326_FileSynchro.csproj.GenerateResource.Cache
+C:\Users\LenIvo\Google Диск\Bionic Uni HomeWorks\HW14_20150326_FileSynchro\HW14_20150326_FileSynchro\obj\Debug\HW14_20150326_FileSynchro.exe
+C:\Users\LenIvo\Google Диск\Bionic Uni HomeWorks\HW14_20150326_FileSynchro\HW14_20150326_FileSynchro\obj\Debug\HW14_20150326_FileSynchro.pdb
+C:\Users\LenIvo\Google Диск\Bionic Uni HomeWorks\HW14_20150326_FileSynchro\HW14_20150326_FileSynchro\obj\Debug\HW14_20150326_FileSynchro.MainWindow.resources
+G:\Универ\GoogleDrive_oldan\Bionic Uni HomeWorks\HW14_20150326_FileSynchro\HW14_20150326_FileSynchro\bin\Debug\HW14_20150326_FileSynchro.exe.config
+G:\Универ\GoogleDrive_oldan\Bionic Uni HomeWorks\HW14_20150326_FileSynchro\HW14_20150326_FileSynchro\obj\Debug\HW14_20150326_FileSynchro.exe
+G:\Универ\GoogleDrive_oldan\Bionic Uni HomeWorks\HW14_20150326_FileSynchro\HW14_20150326_FileSynchro\obj\Debug\HW14_20150326_FileSynchro.pdb
+G:\Универ\GoogleDrive_oldan\Bionic Uni HomeWorks\HW14_20150326_FileSynchro\HW14_20150326_FileSynchro\obj\Debug\HW14_20150326_FileSynchro.csprojResolveAssemblyReference.cache
+G:\Универ\GoogleDrive_oldan\Bionic Uni HomeWorks\HW14_20150326_FileSynchro\HW14_20150326_FileSynchro\obj\Debug\HW14_20150326_FileSynchro.MainWindow.resources
+G:\Универ\GoogleDrive_oldan\Bionic Uni HomeWorks\HW14_20150326_FileSynchro\HW14_20150326_FileSynchro\obj\Debug\HW14_20150326_FileSynchro.Properties.Resources.resources
+G:\Универ\GoogleDrive_oldan\Bionic Uni HomeWorks\HW14_20150326_FileSynchro\HW14_20150326_FileSynchro\obj\Debug\HW14_20150326_FileSynchro.csproj.GenerateResource.Cache
+E:\Dropbox\bionic\HW14_20150326_FileSynchro\HW14_20150326_FileSynchro\bin\Debug\HW14_20150326_FileSynchro.exe.config
+E:\Dropbox\bionic\HW14_20150326_FileSynchro\HW14_20150326_FileSynchro\obj\Debug\HW14_20150326_FileSynchro.exe
+E:\Dropbox\bionic\HW14_20150326_FileSynchro\HW14_20150326_FileSynchro\obj\Debug\HW14_20150326_FileSynchro.pdb
+E:\Dropbox\bionic\HW14_20150326_FileSynchro\HW14_20150326_FileSynchro\bin\Debug\HW14_20150326_FileSynchro.exe
+E:\Dropbox\bionic\HW14_20150326_FileSynchro\HW14_20150326_FileSynchro\bin\Debug\HW14_20150326_FileSynchro.pdb
+E:\Dropbox\bionic\HW14_20150326_FileSynchro\HW14_20150326_FileSynchro\obj\Debug\HW14_20150326_FileSynchro.csprojResolveAssemblyReference.cache
+E:\Dropbox\bionic\HW14_20150326_FileSynchro\HW14_20150326_FileSynchro\obj\Debug\HW14_20150326_FileSynchro.MainWindow.resources
+E:\Dropbox\bionic\HW14_20150326_FileSynchro\HW14_20150326_FileSynchro\obj\Debug\HW14_20150326_FileSynchro.Properties.Resources.resources
+E:\Dropbox\bionic\HW14_20150326_FileSynchro\HW14_20150326_FileSynchro\obj\Debug\HW14_20150326_FileSynchro.csproj.GenerateResource.Cache
+I:\Универ\GoogleDrive_oldan\Bionic\Bionic Uni HomeWorks\HW14_20150326_FileSynchro\HW14_20150326_FileSynchro\bin\Debug\HW14_20150326_FileSynchro.exe.config
+I:\Универ\GoogleDrive_oldan\Bionic\Bionic Uni HomeWorks\HW14_20150326_FileSynchro\HW14_20150326_FileSynchro\obj\Debug\HW14_20150326_FileSynchro.exe
+I:\Универ\GoogleDrive_oldan\Bionic\Bionic Uni HomeWorks\HW14_20150326_FileSynchro\HW14_20150326_FileSynchro\obj\Debug\HW14_20150326_FileSynchro.pdb
